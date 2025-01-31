@@ -1,7 +1,7 @@
 {
-  "name": "@ngmazamat/frodopath",
-  "version": "0.0.3",
-  "description": "Run a program with env vars specified",
+  "name": "@ngmazamat/sum",
+  "version": "0.0.5",
+  "description": "Sum - first plus second",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
