@@ -14,8 +14,7 @@
     "alga": "bash publish.sh"
   },
   "keywords": [
-    "sum",
-    "azamat"
+    "sum"
   ],
   "repository": {
     "type": "git",
