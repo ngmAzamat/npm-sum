@@ -1,0 +1,38 @@
+{
+  "name": "@ngmazamat/frodopath",
+  "version": "0.0.3",
+  "description": "Run a program with env vars specified",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "module": "src/index.ts",
+  "scripts": {
+    "test": "node --test",
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "commit": "tsc; git add . ; git commit -a -m minor; git push",
+    "alga": "bash publish.sh"
+  },
+  "keywords": [
+    "Lord Of The Rings",
+    "Frodo",
+    "Tolkien",
+    "Beggins",
+    "Hobbit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngmAzamat/Lotr-Programm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngmAzamat/Lotr-Programm"
+  },
+  "homepage": "https://github.com/ngmAzamat/Lotr-Programm",
+  "author": "Azamat",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {}
+}
