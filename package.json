@@ -14,20 +14,17 @@
     "alga": "bash publish.sh"
   },
   "keywords": [
-    "Lord Of The Rings",
-    "Frodo",
-    "Tolkien",
-    "Beggins",
-    "Hobbit"
+    "sum",
+    "azamat"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngmAzamat/Lotr-Programm.git"
+    "url": "git+https://github.com/ngmAzamat/npm-sum.git"
   },
   "bugs": {
-    "url": "https://github.com/ngmAzamat/Lotr-Programm"
+    "url": "https://github.com/ngmAzamat/npm-sum"
   },
-  "homepage": "https://github.com/ngmAzamat/Lotr-Programm",
+  "homepage": "https://github.com/ngmAzamat/npm-sum",
   "author": "Azamat",
   "license": "MIT",
   "devDependencies": {
